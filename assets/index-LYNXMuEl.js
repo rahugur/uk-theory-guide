@@ -780,9 +780,9 @@ When joining a motorway, use the **slip road (acceleration lane)** to build up y
 
 ## Lane Discipline
 
-| Lane | Purpose |
-
 ![Motorway lane discipline — keep left unless overtaking, middle lane hogging is an offence](https://d2xsxph8kpxj0f.cloudfront.net/310519663316534385/nFAxyhysUhGPJFPiYRvZSc/lane-discipline-28Nvfd6NjW5oWx6Bsmj7zt.webp)
+
+| Lane | Purpose |
 |---|---|
 | **Left lane** | Normal driving — you should drive in this lane unless overtaking |
 | **Middle lane** | Overtaking vehicles in the left lane |
@@ -792,9 +792,9 @@ You must **not overtake on the left** unless traffic is moving in queues and the
 
 ## Speed Limits on Motorways
 
-| Vehicle Type | Speed Limit |
-
 ![UK speed limits for different road types and vehicle categories](https://d2xsxph8kpxj0f.cloudfront.net/310519663316534385/nFAxyhysUhGPJFPiYRvZSc/speed-limits-an4poxiX7mRgBJ4JwC3jHc.webp)
+
+| Vehicle Type | Speed Limit |
 |---|---|
 | **Cars and motorcycles** | 70 mph |
 | **Cars towing caravans/trailers** | 60 mph (cannot use right lane on 3+ lane motorway) |
@@ -934,9 +934,9 @@ Understanding the traffic light sequence is essential:
 
 ## Pedestrian Crossings
 
-| Crossing Type | Key Features |
-
 ![Types of UK pedestrian crossings — Zebra, Pelican, Puffin, and Toucan](https://d2xsxph8kpxj0f.cloudfront.net/310519663316534385/nFAxyhysUhGPJFPiYRvZSc/pedestrian-crossings-aMmGPcDzNQoriCsrXGfKQJ.webp)
+
+| Crossing Type | Key Features |
 |---|---|
 | **Zebra** | Black and white stripes, flashing amber beacons. Give way to pedestrians on the crossing. |
 | **Pelican** | Traffic lights with a push button. Has a flashing amber phase — give way to pedestrians still crossing. |
